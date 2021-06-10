@@ -1,0 +1,7 @@
+{
+    "plugin-data":
+    {
+        "name": "Debug Bar",
+        "description": "Peek into Bludit internals."
+    }
+}
